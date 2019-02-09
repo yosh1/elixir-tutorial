@@ -31,7 +31,7 @@ $ iex
 ### ファイルをコンパイル
 
 ```
-$ elixir <file-name>
+$ elixir <file-name>.exs
 ```
 
 ---
