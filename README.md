@@ -93,3 +93,11 @@ end
 - 関数はモジュールの中に書く
 - doが必要
 
+## IO.puts
+
+```
+IO.puts "Hello!"
+#=> Hello!
+```
+
+- rubyのputに似てるらしい（知らない）
