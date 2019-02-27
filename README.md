@@ -1,4 +1,4 @@
-# Elixir Wiki
+# Elixir Tutorial
 This is elixir tutorial repository.
 
 ---
